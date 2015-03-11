@@ -1,0 +1,18 @@
+2015-03-11 10:58:16,704  WARN [Worker-4] - ScalaProject - Project MISCELLANEOUS has platform default sourceLevel.
+2015-03-11 10:58:17,118  WARN [Worker-4] - ScalaProject - Project MISCELLANEOUS runs on platform default installation.
+2015-03-11 10:58:42,312  WARN [Worker-2] - ScalaProject - Project MISCELLANEOUS has platform default sourceLevel.
+2015-03-11 10:58:42,313  WARN [Worker-2] - ScalaProject - Project MISCELLANEOUS runs on platform default installation.
+2015-03-11 10:59:22,205  WARN [Worker-5] - ScalaProject - Project MISCELLANEOUS has platform default sourceLevel.
+2015-03-11 10:59:22,206  WARN [Worker-5] - ScalaProject - Project MISCELLANEOUS runs on platform default installation.
+2015-03-11 10:59:50,053  WARN [Worker-6] - ScalaProject - Project MISCELLANEOUS has platform default sourceLevel.
+2015-03-11 10:59:50,053  WARN [Worker-6] - ScalaProject - Project MISCELLANEOUS runs on platform default installation.
+2015-03-11 11:02:26,613  WARN [main] - ScalaProject - Project MISCELLANEOUS has platform default sourceLevel.
+2015-03-11 11:02:26,613  WARN [main] - ScalaProject - Project MISCELLANEOUS runs on platform default installation.
+2015-03-11 11:03:17,858  WARN [Worker-3] - ScalaProject - Project MISCELLANEOUS has platform default sourceLevel.
+2015-03-11 11:03:17,859  WARN [Worker-3] - ScalaProject - Project MISCELLANEOUS runs on platform default installation.
+2015-03-11 11:03:27,230  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2015-03-11 11:03:30,398  WARN [Worker-4] - ScalaProject - Project MISCELLANEOUS has platform default sourceLevel.
+2015-03-11 11:03:30,439  WARN [Worker-4] - ScalaProject - Project MISCELLANEOUS runs on platform default installation.
+2015-03-11 11:03:39,604 ERROR [Worker-1] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2015-03-11 11:03:39,604 ERROR [Worker-1] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2015-03-11 11:03:39,604 ERROR [Worker-1] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
